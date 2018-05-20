@@ -9,4 +9,4 @@ Download the zip of this repository, and open index.html with your browser. Afte
 
 With that PCRSX file, import it in Picross+ through "Your Picross" on the menu (Download Picross+ to load your generate: https://play.google.com/store/apps/details?id=com.idstudio.picrossplus)
 
-You can also send me your Picross on idstudiopublishing@gmail.com and I may load it in Picross+!
+You can also send me your Picross-es on idstudiopublishing@gmail.com and I may add it in Picross+!
